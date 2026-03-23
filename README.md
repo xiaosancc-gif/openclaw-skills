@@ -1,6 +1,6 @@
 # OpenClaw Skills & 项目安装包
 
-> 生成时间：2026-03-23
+> 更新时间：2026-03-23 13:20
 > 来源机器：C:\Users\Administrator\.openclaw
 > 用途：快速在另一台 OpenClaw 上重建相同环境
 
