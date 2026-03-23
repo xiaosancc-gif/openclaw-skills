@@ -1,6 +1,8 @@
 # OpenClaw Skills & 项目安装包
 
-> 更新时间：2026-03-23 13:20
+> 更新时间：2026-03-23 13:23
+> 新增：dbskills (7个)、baoyu-skills (18个)
+> 当前 Skills 总数：约 118 个
 > 来源机器：C:\Users\Administrator\.openclaw
 > 用途：快速在另一台 OpenClaw 上重建相同环境
 
